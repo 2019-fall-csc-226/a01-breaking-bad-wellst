@@ -1,10 +1,10 @@
 # A01: Breaking Bad
 
-Name: ____________
+Name: Taran Wells
 
-Name (if working with a partner): ____________
+Name (if working with a partner): N/A
 
-Repository Link: ______________
+Repository Link: https://github.com/2019-fall-csc-226/a01-breaking-bad-wellst.git
 
-Google Doc Link: ______________
+Google Doc Link: https://docs.google.com/document/d/1b-hCHCRzXdq5nSEK1t6Ozua43E5gd5dxF14YO6AliPE/edit?usp=sharing
 
